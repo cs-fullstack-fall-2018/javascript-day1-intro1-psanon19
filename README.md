@@ -1,11 +1,11 @@
-# JavaScript_Day1_Intro
-### Put each exercise in a new file 
+# JavaScript_Day1_Intro:
+### Create a new file for each exercise
 
 #### Exercise 1
 Print ```Hello World``` in the console
 
 #### Exercise 2
-Take user input and prints the user input.
+Ask the user for any input. Print that user input.
 
 #### Exercise 3
-Take user input and print ```Hello [THEIR NAME]```
+Ask the user for input. Print ```Hello [THEIR NAME]```
